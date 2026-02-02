@@ -1,30 +1,29 @@
 //Print prime numbers in the given range 1 to n.
-
 #include <stdio.h>
-
 int main()
 {
-    int n = 10;          // 1️⃣ Range ka end
-    int num, i;          // 2️⃣ Loop variables
-    int count;           // 3️⃣ Divisor count ke liye
+    int n = 10;       
+    int num, i;       
+    int count;         
 
-    for (num = 2; num <= n; num++)   // 4️⃣ Outer loop: number select
+    for (num = 2; num <= n; num++)  
     {
-        count = 0;                   // 5️⃣ Har number ke liye reset
+        count = 0;                 
 
-        for (i = 1; i <= num; i++)   // 6️⃣ Inner loop: divisor check
+        for (i = 1; i <= num; i++)  
         {
-            if (num % i == 0)        // 7️⃣ Divisible hai ya nahi
+            if (num % i == 0)        
             {
-                count++;             // 8️⃣ Divisor mila
+                count++;            
             }
         }
 
-        if (count == 2)              // 9️⃣ Prime check
+        if (count == 2)            
         {
-            printf("%d ", num);      // 🔟 Prime number print
+            printf("%d ", num);    
         }
     }
 
-    return 0;                         // 1️⃣1️⃣ Program end
+    return 0;                      
 }
+
