@@ -6,5 +6,5 @@ int main(){
     p=&a;
 
     printf("Value of int* %u");
-
 }
+
