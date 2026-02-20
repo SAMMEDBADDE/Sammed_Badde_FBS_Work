@@ -1,7 +1,6 @@
 #include <stdio.h>
 int add(int x , int y){
 return (x*y);
-
 }
 
 int main()
@@ -15,4 +14,5 @@ int main()
     int ans = add(a,b);
     printf("Answer is : %d", ans);
     return 0;
+
 }
