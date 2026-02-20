@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int arr[100], n, i, j, temp;
 
@@ -26,4 +25,5 @@ int main() {
 
     return 0;
 }
+
 
