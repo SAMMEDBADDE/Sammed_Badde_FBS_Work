@@ -20,7 +20,8 @@ int main() {
         printf("%d ", crr[i]);
     }
 
-    return 0;
+return 0;
 }
+
 
 
