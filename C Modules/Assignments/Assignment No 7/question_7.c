@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main() {
     int arr[5], brr[5], crr[5], i;
-
     printf("Enter elements of first array:\n");
     for(i = 0; i < 5; i++) {
         scanf("%d", &arr[i]);
@@ -22,6 +21,7 @@ int main() {
 
 return 0;
 }
+
 
 
 
