@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int arr[5], brr[5], crr[5], i;
 
@@ -24,3 +23,4 @@ int main() {
 
     return 0;
 }
+
