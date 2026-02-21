@@ -6,7 +6,6 @@ int main() {
     for(i = 0; i < 5; i++) {
         scanf("%d", &arr[i]);
     }
-
     printf("Enter elements of second array:\n");
     for(i = 0; i < 5; i++) {
         scanf("%d", &brr[i]);
@@ -23,4 +22,5 @@ int main() {
 
     return 0;
 }
+
 
