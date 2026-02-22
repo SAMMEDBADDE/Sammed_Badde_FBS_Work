@@ -8,7 +8,6 @@ int main() {
 
     while(str[length] != '\0')
         length++;
-
     temp = str[0];
     str[0] = str[length - 1];
     str[length - 1] = temp;
@@ -16,4 +15,5 @@ int main() {
     printf("Modified string: %s", str);
 
     return 0;
+
 }
