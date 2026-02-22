@@ -2,7 +2,6 @@
 int main() {
     char str[100], temp;
     int i, length = 0;
-
     printf("Enter string: ");
     gets(str);
 
@@ -17,3 +16,4 @@ int main() {
     return 0;
 
 }
+
