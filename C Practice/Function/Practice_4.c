@@ -1,8 +1,7 @@
 #include <stdio.h>
 void vote(){
      int age;
-
-    printf("Enter your age :  ");
+printf("Enter your age :  ");
     scanf("%d", &age);
     if (age >= 18)
     {
@@ -17,4 +16,5 @@ int main()
 
    vote();
    return 0;
+
 }
