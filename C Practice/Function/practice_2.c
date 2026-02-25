@@ -17,7 +17,8 @@ void india()
 }
 int main()
 {
-    india();
+india();
 }
+
 
 
