@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 void england()
 {
     printf("You are in England\n");
@@ -22,4 +21,5 @@ void india()
 int main()
 {
     india();
+
 }
