@@ -3,7 +3,6 @@
 //     int res;
 //     int a;
 //     int b;
-
 //     printf("Enter two numbers : ");
 //     scanf("%d",&a,&b);
 //     res=a+b;
@@ -25,4 +24,5 @@ int main()
     printf("Additoon is  %d", res);
 
 }
+
 
