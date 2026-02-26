@@ -1,6 +1,5 @@
 // #include<stdio.h>
 // int main(){
-
 //     int res;
 //     int a;
 //     int b;
@@ -25,4 +24,5 @@ int main()
 
     res = a + b;
     printf("Additoon is  %d", res);
+
 }
