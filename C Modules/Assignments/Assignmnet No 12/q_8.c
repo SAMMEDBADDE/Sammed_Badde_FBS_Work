@@ -8,11 +8,11 @@ int main() {
         if(str[i] == ' ' && str[i+1] != ' ')
             count++;
     }
-
     printf("Number of words = %d", count + 1);
 return 0;
 
 }
+
 
 
 
