@@ -6,12 +6,13 @@ int main() {
     gets(str);
     for(i = 0; str[i] != '\0'; i++) {
         if(str[i] == ' ' && str[i+1] != ' ')
-            count++;
+        count++;
     }
     printf("Number of words = %d", count + 1);
 return 0;
 
 }
+
 
 
 
