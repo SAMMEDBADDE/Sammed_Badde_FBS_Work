@@ -2,7 +2,6 @@
 int main() {
     char str[100];
     int i, count = 0;
-
     printf("Enter string: ");
     gets(str);
 
@@ -15,4 +14,5 @@ int main() {
 return 0;
 
 }
+
 
