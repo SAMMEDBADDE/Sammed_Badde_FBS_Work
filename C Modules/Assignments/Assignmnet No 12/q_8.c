@@ -13,5 +13,6 @@ int main() {
 
     printf("Number of words = %d", count + 1);
 
-    return 0;
+return 0;
+
 }
