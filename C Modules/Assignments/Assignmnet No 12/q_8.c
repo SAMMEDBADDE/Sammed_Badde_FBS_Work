@@ -4,7 +4,6 @@ int main() {
     int i, count = 0;
     printf("Enter string: ");
     gets(str);
-
     for(i = 0; str[i] != '\0'; i++) {
         if(str[i] == ' ' && str[i+1] != ' ')
             count++;
@@ -14,5 +13,6 @@ int main() {
 return 0;
 
 }
+
 
 
