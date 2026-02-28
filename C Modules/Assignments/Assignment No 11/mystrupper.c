@@ -7,7 +7,6 @@ void mystrupper(char str[]) {
         i++;
     }
 }
-
 int main() {
     char str[100];
 
@@ -19,3 +18,4 @@ int main() {
     return 0;
 
 }
+
