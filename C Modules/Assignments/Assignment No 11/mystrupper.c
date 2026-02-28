@@ -13,9 +13,9 @@ int main() {
 
     printf("Enter string: ");
     gets(str);
-
     mystrupper(str);
 
     printf("Uppercase string: %s", str);
     return 0;
+
 }
