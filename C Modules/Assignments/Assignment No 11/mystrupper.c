@@ -9,7 +9,6 @@ void mystrupper(char str[]) {
 }
 int main() {
     char str[100];
-
     printf("Enter string: ");
     gets(str);
     mystrupper(str);
@@ -18,4 +17,5 @@ int main() {
     return 0;
 
 }
+
 
