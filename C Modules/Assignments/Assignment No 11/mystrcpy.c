@@ -14,8 +14,8 @@ int main() {
     gets(src);
 
     mystrcpy(dest, src);
-
     printf("Copied string: %s", dest);
     return 0;
 
 }
+
