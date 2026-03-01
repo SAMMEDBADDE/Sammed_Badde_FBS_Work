@@ -9,7 +9,6 @@ void mystrcpy(char dest[], char src[]) {
 }
 int main() {
     char src[100], dest[100];
-
     printf("Enter string: ");
     gets(src);
     mystrcpy(dest, src);
@@ -17,5 +16,6 @@ int main() {
     return 0;
 
 }
+
 
 
