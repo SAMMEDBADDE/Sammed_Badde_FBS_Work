@@ -7,7 +7,6 @@ void mystrcpy(char dest[], char src[]) {
     }
     dest[i] = '\0';
 }
-
 int main() {
     char src[100], dest[100];
 
@@ -18,4 +17,5 @@ int main() {
 
     printf("Copied string: %s", dest);
     return 0;
+
 }
