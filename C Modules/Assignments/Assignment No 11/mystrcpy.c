@@ -1,5 +1,5 @@
 #include <stdio.h>
-void mystrcpy(char dest[], char src[]) {
+void mystrcpy(char dest[], char src[]){
     int i = 0;
     while(src[i] != '\0') {
         dest[i] = src[i];
@@ -16,6 +16,7 @@ int main() {
     return 0;
 
 }
+
 
 
 
