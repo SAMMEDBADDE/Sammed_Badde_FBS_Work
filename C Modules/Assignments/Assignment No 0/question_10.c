@@ -14,7 +14,7 @@ float per = (total / 500.0) * 100;
     printf("Percentage of total is :%.2f", per);
 
     return 0;
-
 }
+
 
 
