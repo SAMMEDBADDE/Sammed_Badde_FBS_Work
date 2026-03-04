@@ -8,7 +8,7 @@ int main()
     int s5 = 50;
 
   int total = s1 + s2 + s3 + s4 + s5;
-    float per = (total / 500.0) * 100;
+float per = (total / 500.0) * 100;
 
     printf("Total of marks :%.d\n", total);
     printf("Percentage of total is :%.2f", per);
@@ -16,3 +16,4 @@ int main()
     return 0;
 
 }
+
