@@ -1,4 +1,4 @@
-// #include<stdio.h>
+#include<stdio.h>
 int main()
 {
     for(int row=1; row<=15; row++)
@@ -11,4 +11,5 @@ int main()
     printf("\n");
 
 }
+
 
