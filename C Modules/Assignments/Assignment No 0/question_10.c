@@ -7,7 +7,7 @@ int main()
     int s4 = 20;
     int s5 = 50;
 
-int total = s1 + s2 + s3 + s4 + s5;
+ int total = s1 + s2 + s3 + s4 + s5;
  float per = (total / 500.0) * 100;
 
     printf("Total of marks :%.d\n", total);
@@ -15,6 +15,7 @@ int total = s1 + s2 + s3 + s4 + s5;
 
     return 0;
 }
+
 
 
 
