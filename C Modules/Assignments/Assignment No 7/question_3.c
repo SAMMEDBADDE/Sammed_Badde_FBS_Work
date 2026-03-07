@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int arr[100], n, i, sum = 0;
 
@@ -15,3 +14,4 @@ int main() {
 
     return 0;
 }
+
