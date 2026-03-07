@@ -5,6 +5,7 @@
 // If marks are more than 55 → show "Second Class"
 // If marks are 40 or more → show "Pass Class"
 // If marks are less than 40 → show "Fail"
+
 #include <stdio.h>
 int main()
 {
@@ -32,4 +33,5 @@ int main()
     {
         printf("FAIL");
     }
+
 }
