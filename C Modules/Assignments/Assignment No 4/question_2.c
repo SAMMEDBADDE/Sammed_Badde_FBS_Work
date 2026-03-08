@@ -1,5 +1,4 @@
 //Print prime numbers in the given range 1 to n.
-
 #include <stdio.h>
 int main()
 {
@@ -27,4 +26,5 @@ int main()
 
     return 0;                         
 }
+
 
