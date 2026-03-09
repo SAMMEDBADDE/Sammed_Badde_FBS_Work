@@ -1,6 +1,5 @@
 // Print perfect numbers in the given range 1 to n.
 #include <stdio.h>
-
 int main()
 {
     int n, i, j, sum;
@@ -28,3 +27,4 @@ int main()
 
     return 0;
 }
+
