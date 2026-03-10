@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-    int n;
+     int n;
      printf("Enter a number : ");
      scanf("%d", &n);
     if (n % 5 == 0)
@@ -13,6 +13,7 @@ int main()
         printf("Not Divisible by 5");
         }
 }
+
 
 
 
