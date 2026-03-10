@@ -10,7 +10,8 @@ int main()
         printf("Divisible by 5");
         }
         else {
-            printf("Not Divisible by 5");
+        printf("Not Divisible by 5");
         }
 }
+
 
