@@ -12,10 +12,11 @@ int main()
     }
     else
     {
-        printf("The character is not an Alphabet");
+     printf("The character is not an Alphabet");
     }
 
     return 0;
 }
+
 
 
