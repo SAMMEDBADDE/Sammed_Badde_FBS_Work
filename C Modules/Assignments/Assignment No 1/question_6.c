@@ -2,7 +2,6 @@
 int main()
 {
     char ch = 'G';   
-
     if (ch >= 'A' && ch <= 'Z')
     {
         printf("The character is Uppercase");
@@ -18,3 +17,4 @@ int main()
 
     return 0;
 }
+
