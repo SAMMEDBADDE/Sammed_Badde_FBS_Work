@@ -8,7 +8,7 @@
 //     res=a+b;
 //     printf("The Answer is : %d",res);
 //
-}
+
 
 #include <stdio.h>
 int main()
@@ -25,6 +25,7 @@ int main()
     printf("Additoon is  %d", res);
 
 }
+
 
 
 
