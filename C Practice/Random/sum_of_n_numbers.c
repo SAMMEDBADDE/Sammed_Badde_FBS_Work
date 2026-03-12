@@ -18,12 +18,11 @@ int main()
     printf("Enter numbers : ");
     scanf("%d", &a);
     scanf("%d", &b);
-  
-
     res = a + b;
     printf("Additoon is  %d", res);
 
 }
+
 
 
 
