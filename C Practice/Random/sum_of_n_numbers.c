@@ -11,9 +11,9 @@
 #include <stdio.h>
 int main()
 {
-    int a;
-    int b;
-    int res;
+     int a;
+     int b;
+     int res;
     printf("Enter numbers : ");
     scanf("%d", &a);
     scanf("%d", &b);
@@ -21,6 +21,7 @@ int main()
     printf("Additoon is  %d", res);
 
 }
+
 
 
 
