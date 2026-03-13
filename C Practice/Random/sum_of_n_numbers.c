@@ -10,7 +10,7 @@
 
 #include <stdio.h>
 int main()
-{ 
+{  
      int a;
      int b;
      int res;
@@ -21,6 +21,7 @@ int main()
     printf("Additoon is  %d", res);
 
 }
+
 
 
 
