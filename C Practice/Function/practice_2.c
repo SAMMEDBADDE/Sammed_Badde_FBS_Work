@@ -11,9 +11,9 @@ void australia()
 }
 void india()
 {
-    printf("You are in India\n");
-    australia();
-    return;
+printf("You are in India\n");
+australia();
+return;
 }
 int main()
 {
