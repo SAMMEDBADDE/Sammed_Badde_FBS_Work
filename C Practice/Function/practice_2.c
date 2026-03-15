@@ -6,8 +6,8 @@ void england()
 }
 void australia()
 {
-    printf("You are in Australia\n");
-    england();
+ printf("You are in Australia\n");
+  england();
 }
 void india()
 {
