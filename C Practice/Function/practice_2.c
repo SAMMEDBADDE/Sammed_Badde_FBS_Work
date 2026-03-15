@@ -7,7 +7,7 @@ void england()
 void australia()
 {
  printf("You are in Australia\n");
-  england();
+ england();
 }
 void india()
 {
