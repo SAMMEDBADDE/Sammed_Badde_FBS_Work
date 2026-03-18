@@ -17,7 +17,7 @@ return;
 }
 int main()
 {
-india();
+ india();
 }
 
 
