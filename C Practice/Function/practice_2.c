@@ -7,7 +7,7 @@ return;
 void australia()
 {
  rintf("You are in Australia\n");
-england();
+ england();
 }
 void india()
 {
