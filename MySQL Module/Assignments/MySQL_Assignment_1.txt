@@ -3,12 +3,10 @@ Name: Sammed
 
 Q1) Display Databases
 
-
 SHOW DATABASES;
 
 
 Q2) Create countries Table
-
 
 CREATE TABLE countries (
     country_id      INT,
@@ -22,7 +20,6 @@ DESC countries;
 
 Q3) Create jobs Table with Constraints
 
-
 CREATE TABLE jobs (
     job_id      INT          PRIMARY KEY,
     job_title   VARCHAR(100) NOT NULL,
@@ -32,7 +29,6 @@ CREATE TABLE jobs (
 
 
 Q4) Create job_history Table
-
 
 CREATE TABLE job_history (
     employee_id   INT,
@@ -44,7 +40,6 @@ CREATE TABLE job_history (
 
 
 Q5) Add UNIQUE Constraint on countries Table
-
 
 ALTER TABLE countries
 ADD CONSTRAINT uq_country_id UNIQUE (country_id);
@@ -62,7 +57,6 @@ CREATE TABLE jobs_default (
 
 Q7) Create departments Table (Composite Primary Key)
 
-
 CREATE TABLE departments (
     department_id   DECIMAL(4,0)  NOT NULL,
     department_name VARCHAR(30)   NOT NULL,
@@ -73,7 +67,6 @@ CREATE TABLE departments (
 
 
 Q8) Create employees Table with Foreign Key
-
 
 CREATE TABLE employees (
     employee_id   INT             PRIMARY KEY,
@@ -94,7 +87,6 @@ CREATE TABLE employees (
 
 
 Q9) Composite Foreign Key Implementation
-
 
 -- Step 1: Create department_managers Table
 CREATE TABLE department_managers (
