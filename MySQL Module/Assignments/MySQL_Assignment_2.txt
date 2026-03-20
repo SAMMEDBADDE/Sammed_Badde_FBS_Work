@@ -107,8 +107,7 @@ CREATE TABLE Books (
     Book_Name   VARCHAR(30) NOT NULL,
     Author_Name VARCHAR(30),
     Cost        DECIMAL(10,2),
-    Category    VARCHAR(15) CHECK (Category IN ('System','Fiction','Database','RDBMS','Others','Science'))
-);
+    Category    VARCHAR(15) CHECK (Category IN ('System','Fiction','Database','RDBMS','Others','Science')));
 
 Q17)
 INSERT INTO Books VALUES
