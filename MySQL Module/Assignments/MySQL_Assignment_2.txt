@@ -1,7 +1,6 @@
 MySQL Assignment - 2
 Name: Sammed
 
-
 Q1)
 CREATE TABLE Member (
     Member_Id         INT,
