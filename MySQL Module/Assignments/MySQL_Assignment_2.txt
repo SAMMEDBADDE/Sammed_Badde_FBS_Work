@@ -103,11 +103,11 @@ DROP TABLE Books;
 
 Q16)
 CREATE TABLE Books (
-    Book_No     INT PRIMARY KEY,
-    Book_Name   VARCHAR(30) NOT NULL,
-    Author_Name VARCHAR(30),
-    Cost        DECIMAL(10,2),
-    Category    VARCHAR(15) CHECK (Category IN ('System','Fiction','Database','RDBMS','Others','Science')));
+Book_No     INT PRIMARY KEY,
+Book_Name   VARCHAR(30) NOT NULL,
+Author_Name VARCHAR(30),
+Cost        DECIMAL(10,2),
+Category    VARCHAR(15) CHECK (Category IN ('System','Fiction','Database','RDBMS','Others','Science')));
 
 Q17)
 INSERT INTO Books VALUES
