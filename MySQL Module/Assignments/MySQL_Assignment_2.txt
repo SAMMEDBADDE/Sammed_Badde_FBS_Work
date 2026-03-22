@@ -14,7 +14,6 @@ CREATE TABLE Member (
 );
 
 
-
 CREATE TABLE Books (
     Book_No     INT,
     Book_Name   VARCHAR(30),
