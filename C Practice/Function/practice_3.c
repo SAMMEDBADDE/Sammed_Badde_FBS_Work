@@ -14,4 +14,5 @@ int main()
      printf("Answer is : %d", ans);
     return 0;
 
+    
 }
