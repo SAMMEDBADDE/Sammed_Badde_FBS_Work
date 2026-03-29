@@ -13,7 +13,7 @@ void india()
 {
 printf("You are in India\n");
 australia();
- return;
+    return;
 }
 
 int main()
