@@ -13,6 +13,7 @@ CREATE TABLE Member (
     Penalty_Amount    DECIMAL(10,2)
 );
 
+
 CREATE TABLE Books (
     Book_No     INT,
     Book_Name   VARCHAR(30),
