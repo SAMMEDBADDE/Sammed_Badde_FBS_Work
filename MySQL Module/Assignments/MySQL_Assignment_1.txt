@@ -5,6 +5,7 @@ Q1) Display Databases
 
 SHOW DATABASES;
 
+
 Q2) Create countries Table
 
 CREATE TABLE countries (
