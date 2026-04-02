@@ -16,7 +16,6 @@ CREATE TABLE countries (
 -- Display structure of table
 DESC countries;
 
-
 Q3) Create jobs Table with Constraints
 
 CREATE TABLE jobs (
