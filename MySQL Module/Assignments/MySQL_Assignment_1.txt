@@ -1,6 +1,7 @@
 MySQL Assignment - 1
 Name: Sammed
 
+
 Q1) Display Databases
 
 SHOW DATABASES;
